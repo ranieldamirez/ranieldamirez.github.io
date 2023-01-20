@@ -1,0 +1,26 @@
+body {
+    background-color: darkslateblue;
+  }
+  
+h1 {
+    color: rgb(234, 234, 243);
+    margin-left: 20px;
+    font-size: x-large;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+}
+
+a {
+    display: inline;
+    color: gold;
+    padding: 8px;
+    background-color: #4c4b4e;
+}
