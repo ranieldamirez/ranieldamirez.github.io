@@ -1,1 +1,1 @@
-# Convergence of my mind
+# Convergence Of The Mind
