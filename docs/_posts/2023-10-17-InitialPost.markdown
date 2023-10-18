@@ -9,8 +9,6 @@ I'm currently 23 years old, soon to be 24. I work a regular job (10 hour days, 4
 
 ---
 
-## Intentions
-
 As one can deduct from the first paragraph, lately it's been easy for me to get off focus. Despite this sometimes tumultuous state of mind, there are some *constants* in my mindset that grow; building on eachother and transforming into the next *constant* that maintains the basis of the former. Some may call this wisdom, experience, lessons learned, but for me it seems to be something less abstract. I don't know how to explain this idea yet... Maybe as the culmination of the training data my brain has ingested from the persistent advice of my parents for my entire life, or it's the various characterstics of the people I surround myself with - being closely aligned with the values from the aforementioned training data - on which I run a mental regression to see how it can fit into my preferred living experience. This is why I have doubts on the idea of consciousness because I feel I'm not the only one that prone to major influence of their environemnt (although this influence is not definite) - another topic up for future discussion. The current *constant* that I'm living through: living life intentionally.
 
 A quick over-view of the *constants* I've experienced in the recent years:
